@@ -7,6 +7,7 @@
 *Decoding pressure performance. Discovering auction value. Building match-winning squads.*
 
 [![Challenge](https://img.shields.io/badge/SupeRR_Selector-Season_2-E23C45?style=for-the-badge&logo=target&logoColor=white)](https://unstop.com)
+[![Live Demo](https://img.shields.io/badge/Live_War_Room-rr--pressure--intelligence--iota.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://rr-pressure-intelligence-iota.vercel.app)
 [![Franchise](https://img.shields.io/badge/Franchise-Rajasthan_Royals-254A9E?style=for-the-badge&logo=shield&logoColor=D6B46C)](https://www.rajasthanroyals.com)
 [![Dataset](https://img.shields.io/badge/Dataset-200%2C999_Balls-38B889?style=for-the-badge&logo=databricks&logoColor=white)](#-the-cricket-dataset-in-numbers)
 [![React](https://img.shields.io/badge/React_18-TypeScript-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev)
@@ -14,6 +15,8 @@
 [![Tailwind](https://img.shields.io/badge/Tailwind_CSS-3.4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
 
 <br />
+
+### 🌐 [Click Here to Open Live Command Centre (Vercel)](https://rr-pressure-intelligence-iota.vercel.app)
 
 ```
 ========================================================================================
@@ -208,9 +211,17 @@ The application is fully responsive and optimized for presentation across deskto
 
 ---
 
-## 🚀 Quickstart & Installation
+## 🚀 Quickstart & Live Demo
 
-### Prerequisites
+### 🌐 Direct Web Access (No Installation Required)
+Access the live interactive application deployed on Vercel:  
+👉 **[https://rr-pressure-intelligence-iota.vercel.app](https://rr-pressure-intelligence-iota.vercel.app)**
+
+---
+
+### Local Installation & Development
+
+#### Prerequisites
 - **Node.js:** `v18.0.0` or higher
 - **npm:** `v9.0.0` or higher
 - **Python:** `v3.10+` *(optional, for modifying data pipelines)*
