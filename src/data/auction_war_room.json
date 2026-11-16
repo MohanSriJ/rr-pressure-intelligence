@@ -1,0 +1,384 @@
+{
+  "target_board": {
+    "high_confidence_performers": [
+      {
+        "name": "Rinku Singh",
+        "id": 4708,
+        "role": "Middle Order Finisher",
+        "score": 90.0,
+        "exposure": "275 balls (24 matches)",
+        "confidence": "High",
+        "tactical_fit": "Premier match finisher. Balances power with unmatched composure; fixes lower-middle order scoring stalls in tight chases.",
+        "evaluation_priority": "Tier 1 Priority"
+      },
+      {
+        "name": "Namboori Tilak Varma",
+        "id": 7897,
+        "role": "Top-Order / Crisis Anchor",
+        "score": 88.8,
+        "exposure": "326 balls (27 matches)",
+        "confidence": "High",
+        "tactical_fit": "Anchor capable of accelerating from early collapses; provides left-handed versatility across middle overs.",
+        "evaluation_priority": "Tier 1 Priority"
+      },
+      {
+        "name": "Ravindra Jadeja",
+        "id": 152,
+        "role": "Elite All-Rounder",
+        "score": 88.2,
+        "exposure": "268 balls (25 matches)",
+        "confidence": "High",
+        "tactical_fit": "High match consistency (88%) in crunch overs. Calibrated game awareness, low dot-ball percentage in death overs.",
+        "evaluation_priority": "Tier 1 Priority"
+      },
+      {
+        "name": "Mohammad Nawaz",
+        "id": 2490,
+        "role": "Spin Choke Specialist",
+        "score": 76.1,
+        "exposure": "20.0 overs (14 matches)",
+        "confidence": "High",
+        "tactical_fit": "Best pressure economy in dataset (4.60 RPO) with 51.7% dot balls. Stifles boundary flow through middle overs.",
+        "evaluation_priority": "Tier 1 Priority"
+      },
+      {
+        "name": "Mustafizur Rahman",
+        "id": 4373,
+        "role": "Death Cutter Specialist",
+        "score": 68.8,
+        "exposure": "52.3 overs (34 matches)",
+        "confidence": "High",
+        "tactical_fit": "Extensive exposure under pressure (52.3 overs, 26 wickets). Cutter variations and wide yorkers highly effective at Sawai Mansingh Stadium.",
+        "evaluation_priority": "Tier 1 Priority"
+      }
+    ],
+    "high_upside_players": [
+      {
+        "name": "Tristan Stubbs",
+        "id": 20702,
+        "role": "360-Degree Finisher",
+        "score": 80.5,
+        "exposure": "283 balls (22 matches)",
+        "confidence": "High",
+        "tactical_fit": "169.26 SR in pressure overs. High boundary generation against both express pace and high-RPM spin.",
+        "evaluation_priority": "High Upside"
+      },
+      {
+        "name": "Ashutosh Sharma",
+        "id": 8101,
+        "role": "Clutch Impact Hitter",
+        "score": 79.1,
+        "exposure": "146 balls (18 matches)",
+        "confidence": "High",
+        "tactical_fit": "195.89 pressure SR in IPL matches. Extraordinary striking from hopeless match equations.",
+        "evaluation_priority": "High Upside"
+      },
+      {
+        "name": "Sufiyan Muqeem",
+        "id": 34485,
+        "role": "Left-Arm Mystery Wrist Spin",
+        "score": 73.1,
+        "exposure": "22.7 overs (13 matches)",
+        "confidence": "High",
+        "tactical_fit": "15 pressure wickets at 5.82 economy. Generates deceit and misses from unusual release angles.",
+        "evaluation_priority": "High Upside"
+      },
+      {
+        "name": "Jofra Archer",
+        "id": 3298,
+        "role": "Express Strike Pacer",
+        "score": 67.4,
+        "exposure": "22.2 overs (18 matches)",
+        "confidence": "High",
+        "tactical_fit": "Express pace (145+ kph) with +2.02 economy suppression in crunch situations.",
+        "evaluation_priority": "High Upside"
+      }
+    ],
+    "consistent_performers": [
+      {
+        "name": "David Miller",
+        "id": 1077,
+        "role": "Veteran Chase Specialist",
+        "score": 86.9,
+        "exposure": "312 balls (29 matches)",
+        "confidence": "High",
+        "tactical_fit": "Proven track record in subcontinental conditions. 575 pressure runs at 184.29 SR.",
+        "evaluation_priority": "Proven Anchor"
+      },
+      {
+        "name": "Hardik Pandya",
+        "id": 3330,
+        "role": "Pace-Bowling All-Rounder",
+        "score": 81.5,
+        "exposure": "270 balls (27 matches)",
+        "confidence": "High",
+        "tactical_fit": "Experienced captain and finisher; provides batting firepower with seam-bowling flexibility.",
+        "evaluation_priority": "Proven Anchor"
+      },
+      {
+        "name": "Sunil Narine",
+        "id": 781,
+        "role": "Pinch Hitter / Mystery Spinner",
+        "score": 68.4,
+        "exposure": "25.3 overs (19 matches)",
+        "confidence": "High",
+        "tactical_fit": "5.76 economy in pressure overs, 42.1% dots. Decades of elite IPL pressure execution.",
+        "evaluation_priority": "Proven Anchor"
+      },
+      {
+        "name": "Washington Sundar",
+        "id": 4823,
+        "role": "Powerplay & Middle Restrictor",
+        "score": 66.8,
+        "exposure": "18.3 overs (12 matches)",
+        "confidence": "Moderate",
+        "tactical_fit": "92% consistency in pressure overs with disciplined line and length. Off-spin balance.",
+        "evaluation_priority": "Tactical Fit"
+      }
+    ],
+    "specialist_candidates": [
+      {
+        "name": "Tim David",
+        "id": 6396,
+        "role": "Death Overs Power Specialist",
+        "score": 82.9,
+        "exposure": "348 balls (32 matches)",
+        "confidence": "High",
+        "tactical_fit": "Highest pressure run volume in the dataset (679 runs, 195.11 SR). Pure boundary-hunting specialist.",
+        "evaluation_priority": "Role Specialist"
+      },
+      {
+        "name": "Sikandar Raza",
+        "id": 2984,
+        "role": "Spin-Bowling Finisher",
+        "score": 84.8,
+        "exposure": "144 balls (13 matches)",
+        "confidence": "High",
+        "tactical_fit": "Dual value with +45.03 SR uplift and useful defensive mystery spin.",
+        "evaluation_priority": "Role Specialist"
+      },
+      {
+        "name": "Abrar Ahmed",
+        "id": 5979,
+        "role": "Wrist Spin Wicket Taker",
+        "score": 72.6,
+        "exposure": "23.5 overs (17 matches)",
+        "confidence": "High",
+        "tactical_fit": "4.85 pressure economy and 50.3% dot balls. Spin variation chokes opponent middle overs.",
+        "evaluation_priority": "Role Specialist"
+      },
+      {
+        "name": "Akeal Hosein",
+        "id": 2417,
+        "role": "Powerplay / Death Left-Arm Spin",
+        "score": 72.3,
+        "exposure": "16.8 overs (13 matches)",
+        "confidence": "Moderate",
+        "tactical_fit": "5.41 pressure economy with 11 wickets. Capable of bowling under field restrictions.",
+        "evaluation_priority": "Role Specialist"
+      }
+    ]
+  },
+  "priority_matrix": [
+    {
+      "name": "Rinku Singh",
+      "role": "Batter",
+      "sub_role": "Middle Order / Finisher",
+      "reliability_score": 90.0,
+      "evidence_score": 92,
+      "exposure_value": 275,
+      "confidence": "High",
+      "summary": "532 runs @ 193.45 SR (+40.77 delta)"
+    },
+    {
+      "name": "Namboori Tilak Varma",
+      "role": "Batter",
+      "sub_role": "Middle Order / Finisher",
+      "reliability_score": 88.8,
+      "evidence_score": 92,
+      "exposure_value": 326,
+      "confidence": "High",
+      "summary": "600 runs @ 184.05 SR (+41.07 delta)"
+    },
+    {
+      "name": "Ravindra Jadeja",
+      "role": "Batter",
+      "sub_role": "Top-Order Anchor / Rebuilder",
+      "reliability_score": 88.2,
+      "evidence_score": 92,
+      "exposure_value": 268,
+      "confidence": "High",
+      "summary": "426 runs @ 158.96 SR (+23.88 delta)"
+    },
+    {
+      "name": "David Miller",
+      "role": "Batter",
+      "sub_role": "Middle Order / Finisher",
+      "reliability_score": 86.9,
+      "evidence_score": 92,
+      "exposure_value": 312,
+      "confidence": "High",
+      "summary": "575 runs @ 184.29 SR (+35.0 delta)"
+    },
+    {
+      "name": "Sikandar Raza",
+      "role": "Batter",
+      "sub_role": "Middle Order / Finisher",
+      "reliability_score": 84.8,
+      "evidence_score": 92,
+      "exposure_value": 144,
+      "confidence": "High",
+      "summary": "260 runs @ 180.56 SR (+45.03 delta)"
+    },
+    {
+      "name": "Matthew Wade",
+      "role": "Batter",
+      "sub_role": "Middle Order / Finisher",
+      "reliability_score": 83.6,
+      "evidence_score": 75,
+      "exposure_value": 115,
+      "confidence": "Moderate",
+      "summary": "200 runs @ 173.91 SR (+35.27 delta)"
+    },
+    {
+      "name": "Tim David",
+      "role": "Batter",
+      "sub_role": "Middle Order / Finisher",
+      "reliability_score": 82.9,
+      "evidence_score": 92,
+      "exposure_value": 348,
+      "confidence": "High",
+      "summary": "679 runs @ 195.11 SR (+17.46 delta)"
+    },
+    {
+      "name": "Hardik Pandya",
+      "role": "Batter",
+      "sub_role": "Top-Order Anchor / Rebuilder",
+      "reliability_score": 81.5,
+      "evidence_score": 92,
+      "exposure_value": 270,
+      "confidence": "High",
+      "summary": "448 runs @ 165.93 SR (+24.29 delta)"
+    },
+    {
+      "name": "Tristan Stubbs",
+      "role": "Batter",
+      "sub_role": "Top-Order Anchor / Rebuilder",
+      "reliability_score": 80.5,
+      "evidence_score": 92,
+      "exposure_value": 283,
+      "confidence": "High",
+      "summary": "479 runs @ 169.26 SR (+19.35 delta)"
+    },
+    {
+      "name": "Curtis Campher",
+      "role": "Batter",
+      "sub_role": "Top-Order Anchor / Rebuilder",
+      "reliability_score": 80.5,
+      "evidence_score": 75,
+      "exposure_value": 82,
+      "confidence": "Moderate",
+      "summary": "136 runs @ 165.85 SR (+45.89 delta)"
+    },
+    {
+      "name": "Mohammad Nawaz",
+      "role": "Bowler",
+      "sub_role": "Spin Tactician",
+      "reliability_score": 76.1,
+      "evidence_score": 90,
+      "exposure_value": 120,
+      "confidence": "High",
+      "summary": "20.0 ov, 14 wkts @ 4.6 econ"
+    },
+    {
+      "name": "Sufiyan Muqeem",
+      "role": "Bowler",
+      "sub_role": "Spin Tactician",
+      "reliability_score": 73.1,
+      "evidence_score": 90,
+      "exposure_value": 136,
+      "confidence": "High",
+      "summary": "22.7 ov, 15 wkts @ 5.82 econ"
+    },
+    {
+      "name": "Abrar Ahmed",
+      "role": "Bowler",
+      "sub_role": "Spin Tactician",
+      "reliability_score": 72.6,
+      "evidence_score": 90,
+      "exposure_value": 141,
+      "confidence": "High",
+      "summary": "23.5 ov, 9 wkts @ 4.85 econ"
+    },
+    {
+      "name": "Akeal Hosein",
+      "role": "Bowler",
+      "sub_role": "Spin Tactician",
+      "reliability_score": 72.3,
+      "evidence_score": 72,
+      "exposure_value": 101,
+      "confidence": "Moderate",
+      "summary": "16.8 ov, 11 wkts @ 5.41 econ"
+    },
+    {
+      "name": "Shadab Khan",
+      "role": "Bowler",
+      "sub_role": "Spin Tactician",
+      "reliability_score": 72.2,
+      "evidence_score": 72,
+      "exposure_value": 119,
+      "confidence": "Moderate",
+      "summary": "19.8 ov, 13 wkts @ 6.05 econ"
+    },
+    {
+      "name": "Mustafizur Rahman",
+      "role": "Bowler",
+      "sub_role": "Pace Specialist",
+      "reliability_score": 68.8,
+      "evidence_score": 90,
+      "exposure_value": 314,
+      "confidence": "High",
+      "summary": "52.3 ov, 26 wkts @ 7.01 econ"
+    },
+    {
+      "name": "Sunil Narine",
+      "role": "Bowler",
+      "sub_role": "Spin Tactician",
+      "reliability_score": 68.4,
+      "evidence_score": 90,
+      "exposure_value": 152,
+      "confidence": "High",
+      "summary": "25.3 ov, 8 wkts @ 5.76 econ"
+    },
+    {
+      "name": "Mohammad Nabi",
+      "role": "Bowler",
+      "sub_role": "Spin Tactician",
+      "reliability_score": 68.1,
+      "evidence_score": 72,
+      "exposure_value": 72,
+      "confidence": "Moderate",
+      "summary": "12.0 ov, 5 wkts @ 5.83 econ"
+    },
+    {
+      "name": "Jofra Archer",
+      "role": "Bowler",
+      "sub_role": "Pace Specialist",
+      "reliability_score": 67.4,
+      "evidence_score": 90,
+      "exposure_value": 133,
+      "confidence": "High",
+      "summary": "22.2 ov, 13 wkts @ 6.99 econ"
+    },
+    {
+      "name": "Washington Sundar",
+      "role": "Bowler",
+      "sub_role": "Spin Tactician",
+      "reliability_score": 66.8,
+      "evidence_score": 72,
+      "exposure_value": 110,
+      "confidence": "Moderate",
+      "summary": "18.3 ov, 8 wkts @ 6.27 econ"
+    }
+  ]
+}

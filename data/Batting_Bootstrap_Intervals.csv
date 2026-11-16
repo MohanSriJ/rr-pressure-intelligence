@@ -1,0 +1,11 @@
+Player,Player_ID,Reliability_Score,Pressure_SR_Mean,Pressure_SR_CI_Low,Pressure_SR_CI_High,Bootstrap_Std_Error,Rank_Stability
+Rinku Singh,4708,90.0,192.6,173.51,209.68,11.26,High
+Namboori Tilak Varma,7897,88.8,185.45,169.41,203.39,10.65,High
+Ravindra Jadeja,152,88.2,160.41,148.91,173.13,7.22,Very High
+David Miller,1077,86.9,182.47,159.78,203.62,13.78,High
+Sikandar Raza,2984,84.8,176.81,145.51,210.33,20.33,Moderate
+Matthew Wade,796,83.6,174.46,155.87,195.83,11.85,High
+Tim David,6396,82.9,195.4,175.68,215.78,12.66,High
+Hardik Pandya,3330,81.5,167.21,142.4,196.71,15.71,Moderate
+Tristan Stubbs,20702,80.5,170.44,138.05,192.8,16.29,Moderate
+Curtis Campher,7094,80.5,169.72,140.17,217.26,23.74,Moderate

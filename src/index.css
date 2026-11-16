@@ -1,0 +1,58 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --bg-primary: #0B1220;
+    --bg-secondary: #111C2E;
+    --bg-card: #172438;
+    --accent-red: #E23C45;
+    --accent-gold: #D6B46C;
+  }
+
+  body {
+    background-color: #0B1220;
+    color: #F5F6F8;
+    font-family: 'Inter', sans-serif;
+    overflow-x: hidden;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Space Grotesk', sans-serif;
+  }
+
+  /* Custom scrollbar */
+  ::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+  }
+  ::-webkit-scrollbar-track {
+    background: #0B1220;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: #233550;
+    border-radius: 3px;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: #E23C45;
+  }
+}
+
+.font-mono-num {
+  font-family: 'JetBrains Mono', monospace;
+  font-variant-numeric: tabular-nums;
+}
+
+.tactical-grid {
+  background-size: 32px 32px;
+  background-image: 
+    linear-gradient(to right, rgba(226, 60, 69, 0.04) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(214, 180, 108, 0.04) 1px, transparent 1px);
+}
+
+.glass-card {
+  background: rgba(23, 36, 56, 0.85);
+  backdrop-filter: blur(8px);
+  border: 1px solid rgba(35, 53, 80, 0.8);
+}

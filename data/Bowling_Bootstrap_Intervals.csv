@@ -1,0 +1,11 @@
+Player,Player_ID,Reliability_Score,Pressure_Econ_Mean,Pressure_Econ_CI_Low,Pressure_Econ_CI_High,Bootstrap_Std_Error,Rank_Stability
+Mohammad Nawaz,2490,76.1,4.71,3.67,5.92,0.68,High
+Sufiyan Muqeem,34485,73.1,5.89,3.49,7.86,1.33,Moderate
+Abrar Ahmed,5979,72.6,4.82,3.9,6.06,0.64,High
+Akeal Hosein,2417,72.3,5.36,4.5,6.45,0.62,High
+Shadab Khan,4926,72.2,6.07,4.64,7.43,0.83,High
+Mustafizur Rahman,4373,68.8,7.04,5.97,8.16,0.65,High
+Sunil Narine,781,68.4,5.69,4.67,6.69,0.66,High
+Mohammad Nabi,1107,68.1,6.04,3.79,8.94,1.54,Moderate
+Jofra Archer,3298,67.4,6.96,5.37,8.44,0.97,High
+Washington Sundar,4823,66.8,6.35,4.75,7.77,0.95,High

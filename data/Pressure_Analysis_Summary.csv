@@ -1,0 +1,7 @@
+Metric,Value,Notes
+Total Matches Analysed,867,All IPL (401) and T20Is (482) across 2022-2026
+Total Deliveries Evaluated,200999,Ball-by-ball delivery-level records
+Unique Players Evaluated,958,Batters and bowlers across all teams
+High Pressure Deliveries (Threshold >= 55),29090,14.47% of all match deliveries
+Eligible Batters Shortlisted,137,"Minimum 60 pressure balls, 6+ pressure matches"
+Eligible Bowlers Shortlisted,117,"Minimum 12 pressure overs (72 balls), 6+ pressure matches"

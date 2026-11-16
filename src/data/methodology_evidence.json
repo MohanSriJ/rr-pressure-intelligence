@@ -1,0 +1,285 @@
+{
+  "batting_ci": [
+    {
+      "Player": "Rinku Singh",
+      "Player_ID": 4708,
+      "Reliability_Score": 90.0,
+      "Pressure_SR_Mean": 192.6,
+      "Pressure_SR_CI_Low": 173.51,
+      "Pressure_SR_CI_High": 209.68,
+      "Bootstrap_Std_Error": 11.26,
+      "Rank_Stability": "High"
+    },
+    {
+      "Player": "Namboori Tilak Varma",
+      "Player_ID": 7897,
+      "Reliability_Score": 88.8,
+      "Pressure_SR_Mean": 185.45,
+      "Pressure_SR_CI_Low": 169.41,
+      "Pressure_SR_CI_High": 203.39,
+      "Bootstrap_Std_Error": 10.65,
+      "Rank_Stability": "High"
+    },
+    {
+      "Player": "Ravindra Jadeja",
+      "Player_ID": 152,
+      "Reliability_Score": 88.2,
+      "Pressure_SR_Mean": 160.41,
+      "Pressure_SR_CI_Low": 148.91,
+      "Pressure_SR_CI_High": 173.13,
+      "Bootstrap_Std_Error": 7.22,
+      "Rank_Stability": "Very High"
+    },
+    {
+      "Player": "David Miller",
+      "Player_ID": 1077,
+      "Reliability_Score": 86.9,
+      "Pressure_SR_Mean": 182.47,
+      "Pressure_SR_CI_Low": 159.78,
+      "Pressure_SR_CI_High": 203.62,
+      "Bootstrap_Std_Error": 13.78,
+      "Rank_Stability": "High"
+    },
+    {
+      "Player": "Sikandar Raza",
+      "Player_ID": 2984,
+      "Reliability_Score": 84.8,
+      "Pressure_SR_Mean": 176.81,
+      "Pressure_SR_CI_Low": 145.51,
+      "Pressure_SR_CI_High": 210.33,
+      "Bootstrap_Std_Error": 20.33,
+      "Rank_Stability": "Moderate"
+    },
+    {
+      "Player": "Matthew Wade",
+      "Player_ID": 796,
+      "Reliability_Score": 83.6,
+      "Pressure_SR_Mean": 174.46,
+      "Pressure_SR_CI_Low": 155.87,
+      "Pressure_SR_CI_High": 195.83,
+      "Bootstrap_Std_Error": 11.85,
+      "Rank_Stability": "High"
+    },
+    {
+      "Player": "Tim David",
+      "Player_ID": 6396,
+      "Reliability_Score": 82.9,
+      "Pressure_SR_Mean": 195.4,
+      "Pressure_SR_CI_Low": 175.68,
+      "Pressure_SR_CI_High": 215.78,
+      "Bootstrap_Std_Error": 12.66,
+      "Rank_Stability": "High"
+    },
+    {
+      "Player": "Hardik Pandya",
+      "Player_ID": 3330,
+      "Reliability_Score": 81.5,
+      "Pressure_SR_Mean": 167.21,
+      "Pressure_SR_CI_Low": 142.4,
+      "Pressure_SR_CI_High": 196.71,
+      "Bootstrap_Std_Error": 15.71,
+      "Rank_Stability": "Moderate"
+    },
+    {
+      "Player": "Tristan Stubbs",
+      "Player_ID": 20702,
+      "Reliability_Score": 80.5,
+      "Pressure_SR_Mean": 170.44,
+      "Pressure_SR_CI_Low": 138.05,
+      "Pressure_SR_CI_High": 192.8,
+      "Bootstrap_Std_Error": 16.29,
+      "Rank_Stability": "Moderate"
+    },
+    {
+      "Player": "Curtis Campher",
+      "Player_ID": 7094,
+      "Reliability_Score": 80.5,
+      "Pressure_SR_Mean": 169.72,
+      "Pressure_SR_CI_Low": 140.17,
+      "Pressure_SR_CI_High": 217.26,
+      "Bootstrap_Std_Error": 23.74,
+      "Rank_Stability": "Moderate"
+    }
+  ],
+  "bowling_ci": [
+    {
+      "Player": "Mohammad Nawaz",
+      "Player_ID": 2490,
+      "Reliability_Score": 76.1,
+      "Pressure_Econ_Mean": 4.71,
+      "Pressure_Econ_CI_Low": 3.67,
+      "Pressure_Econ_CI_High": 5.92,
+      "Bootstrap_Std_Error": 0.68,
+      "Rank_Stability": "High"
+    },
+    {
+      "Player": "Sufiyan Muqeem",
+      "Player_ID": 34485,
+      "Reliability_Score": 73.1,
+      "Pressure_Econ_Mean": 5.89,
+      "Pressure_Econ_CI_Low": 3.49,
+      "Pressure_Econ_CI_High": 7.86,
+      "Bootstrap_Std_Error": 1.33,
+      "Rank_Stability": "Moderate"
+    },
+    {
+      "Player": "Abrar Ahmed",
+      "Player_ID": 5979,
+      "Reliability_Score": 72.6,
+      "Pressure_Econ_Mean": 4.82,
+      "Pressure_Econ_CI_Low": 3.9,
+      "Pressure_Econ_CI_High": 6.06,
+      "Bootstrap_Std_Error": 0.64,
+      "Rank_Stability": "High"
+    },
+    {
+      "Player": "Akeal Hosein",
+      "Player_ID": 2417,
+      "Reliability_Score": 72.3,
+      "Pressure_Econ_Mean": 5.36,
+      "Pressure_Econ_CI_Low": 4.5,
+      "Pressure_Econ_CI_High": 6.45,
+      "Bootstrap_Std_Error": 0.62,
+      "Rank_Stability": "High"
+    },
+    {
+      "Player": "Shadab Khan",
+      "Player_ID": 4926,
+      "Reliability_Score": 72.2,
+      "Pressure_Econ_Mean": 6.07,
+      "Pressure_Econ_CI_Low": 4.64,
+      "Pressure_Econ_CI_High": 7.43,
+      "Bootstrap_Std_Error": 0.83,
+      "Rank_Stability": "High"
+    },
+    {
+      "Player": "Mustafizur Rahman",
+      "Player_ID": 4373,
+      "Reliability_Score": 68.8,
+      "Pressure_Econ_Mean": 7.04,
+      "Pressure_Econ_CI_Low": 5.97,
+      "Pressure_Econ_CI_High": 8.16,
+      "Bootstrap_Std_Error": 0.65,
+      "Rank_Stability": "High"
+    },
+    {
+      "Player": "Sunil Narine",
+      "Player_ID": 781,
+      "Reliability_Score": 68.4,
+      "Pressure_Econ_Mean": 5.69,
+      "Pressure_Econ_CI_Low": 4.67,
+      "Pressure_Econ_CI_High": 6.69,
+      "Bootstrap_Std_Error": 0.66,
+      "Rank_Stability": "High"
+    },
+    {
+      "Player": "Mohammad Nabi",
+      "Player_ID": 1107,
+      "Reliability_Score": 68.1,
+      "Pressure_Econ_Mean": 6.04,
+      "Pressure_Econ_CI_Low": 3.79,
+      "Pressure_Econ_CI_High": 8.94,
+      "Bootstrap_Std_Error": 1.54,
+      "Rank_Stability": "Moderate"
+    },
+    {
+      "Player": "Jofra Archer",
+      "Player_ID": 3298,
+      "Reliability_Score": 67.4,
+      "Pressure_Econ_Mean": 6.96,
+      "Pressure_Econ_CI_Low": 5.37,
+      "Pressure_Econ_CI_High": 8.44,
+      "Bootstrap_Std_Error": 0.97,
+      "Rank_Stability": "High"
+    },
+    {
+      "Player": "Washington Sundar",
+      "Player_ID": 4823,
+      "Reliability_Score": 66.8,
+      "Pressure_Econ_Mean": 6.35,
+      "Pressure_Econ_CI_Low": 4.75,
+      "Pressure_Econ_CI_High": 7.77,
+      "Bootstrap_Std_Error": 0.95,
+      "Rank_Stability": "High"
+    }
+  ],
+  "sensitivity": [
+    {
+      "Pressure_Threshold": 50,
+      "High_Pressure_Deliveries": 44886,
+      "High_Pressure_Pct": 22.33,
+      "Top_10_Batters_Overlap": "6/10",
+      "Top_10_Bowlers_Overlap": "7/10",
+      "Leading_Batter": "Namboori Tilak Varma",
+      "Leading_Bowler": "Mohammad Nawaz"
+    },
+    {
+      "Pressure_Threshold": 55,
+      "High_Pressure_Deliveries": 29090,
+      "High_Pressure_Pct": 14.47,
+      "Top_10_Batters_Overlap": "10/10",
+      "Top_10_Bowlers_Overlap": "9/10",
+      "Leading_Batter": "Rinku Singh",
+      "Leading_Bowler": "Mohammad Nawaz"
+    },
+    {
+      "Pressure_Threshold": 60,
+      "High_Pressure_Deliveries": 22919,
+      "High_Pressure_Pct": 11.4,
+      "Top_10_Batters_Overlap": "8/10",
+      "Top_10_Bowlers_Overlap": "7/10",
+      "Leading_Batter": "Tim David",
+      "Leading_Bowler": "Umran Malik"
+    },
+    {
+      "Pressure_Threshold": 65,
+      "High_Pressure_Deliveries": 18125,
+      "High_Pressure_Pct": 9.02,
+      "Top_10_Batters_Overlap": "5/10",
+      "Top_10_Bowlers_Overlap": "6/10",
+      "Leading_Batter": "Ravindra Jadeja",
+      "Leading_Bowler": "Kuldeep Yadav"
+    },
+    {
+      "Pressure_Threshold": 70,
+      "High_Pressure_Deliveries": 11902,
+      "High_Pressure_Pct": 5.92,
+      "Top_10_Batters_Overlap": "3/10",
+      "Top_10_Bowlers_Overlap": "3/10",
+      "Leading_Batter": "Rinku Singh",
+      "Leading_Bowler": "Kuldeep Yadav"
+    }
+  ],
+  "dataset_summary": [
+    {
+      "Metric": "Total Matches Analysed",
+      "Value": 867,
+      "Notes": "All IPL (401) and T20Is (482) across 2022-2026"
+    },
+    {
+      "Metric": "Total Deliveries Evaluated",
+      "Value": 200999,
+      "Notes": "Ball-by-ball delivery-level records"
+    },
+    {
+      "Metric": "Unique Players Evaluated",
+      "Value": 958,
+      "Notes": "Batters and bowlers across all teams"
+    },
+    {
+      "Metric": "High Pressure Deliveries (Threshold >= 55)",
+      "Value": 29090,
+      "Notes": "14.47% of all match deliveries"
+    },
+    {
+      "Metric": "Eligible Batters Shortlisted",
+      "Value": 137,
+      "Notes": "Minimum 60 pressure balls, 6+ pressure matches"
+    },
+    {
+      "Metric": "Eligible Bowlers Shortlisted",
+      "Value": 117,
+      "Notes": "Minimum 12 pressure overs (72 balls), 6+ pressure matches"
+    }
+  ]
+}
